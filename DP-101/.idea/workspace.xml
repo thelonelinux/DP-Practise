@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97c35364-13a4-4f10-8ad0-955dace776db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP-101/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP-101/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="97c35364-13a4-4f10-8ad0-955dace776db" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +83,10 @@
       <screen x="0" y="27" width="1920" height="994" />
     </state>
     <state width="1874" height="320" key="GridCell.Tab.1.right/0.27.1920.994@0.27.1920.994" timestamp="1584621649517" />
+    <state x="269" y="125" width="1372" height="796" key="new project wizard" timestamp="1584860391193">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="269" y="125" width="1372" height="796" key="new project wizard/0.27.1920.994@0.27.1920.994" timestamp="1584860391193" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
