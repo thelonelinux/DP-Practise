@@ -6,6 +6,10 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+	//Dynamic Programming Memoization Method this below is.
+	//In another example we will see about Tabulation method
+	//In tabulation method we normally make table of
+	//n+1 and m+1 to find the optimal solution
 
         int[] arr={20,21,7,6,5};
 
